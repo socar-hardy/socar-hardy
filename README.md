@@ -1,16 +1,16 @@
-### Hi there 👋
+### 데이터 엔지니어링팀, 하디
 
-<!--
-**socar-hardy/socar-hardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 쏘카, 데이터 엔지니어링팀 합류 (2020.03)
+- 가격 시스템 MSA 에 들어가는 모듈 개발 (2020.03 ~ 2020.05)
+- 가격 시스템 DB Updater MSA 개발 (2020.06 ~ 2020.07)
+- AB Test 를 위한 가격 시스템 모듈 리팩토링 (2020.07 ~)
 
-Here are some ideas to get you started:
+### 작업 레포
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 가격 시스템 MSA
+  - https://github.com/socar-inc/socar-pricing-docker
+  - https://github.com/socar-inc/socar-helm-chart/tree/develop/charts/socar-pricing-msa
+  
+- 가격 시스템 업데이터 MSA
+  - https://github.com/socar-inc/socar-pricing-updater
+  - https://github.com/socar-inc/socar-helm-chart/tree/develop/charts/socar-pricing-updater
