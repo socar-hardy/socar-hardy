@@ -11,6 +11,10 @@
   - https://github.com/socar-inc/socar-pricing-docker
   - https://github.com/socar-inc/socar-helm-chart/tree/develop/charts/socar-pricing-msa
   
-- 가격 시스템 업데이터 MSA
+- 가격 시스템 DB 업데이터 MSA
   - https://github.com/socar-inc/socar-pricing-updater
   - https://github.com/socar-inc/socar-helm-chart/tree/develop/charts/socar-pricing-updater
+
+### 한 줄 소개
+
+파이썬, 클린 코드, 데브옵스, ML 에 관심있습니다. 🔥🔥
